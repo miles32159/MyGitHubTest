@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("test","test");
 
-        Log.e("test1","test1");
+        Log.e("test3","test3");
     }
 }
